@@ -109,7 +109,7 @@ Eleven har en databas med flera tabeller, varav minst två har relationer med va
 
 ### A-nivå
 
-Eleven har en databas med flera tabeller, varav minst två beskriver ett många-till-många-förhållande (mha en relationstabell).
+Eleven har en databas med flera tabeller. Det finns minst en många-till-många-relation (mha en relationstabell).
 
 ## Säkerhet
 
