@@ -65,7 +65,7 @@ Eleven följer någotsånär REST och har en tydlig namngivning av vyer/routes.
 
 ### A-nivå
 
-Eleven följer MVC (där det är möjligt att controllern bara består av en app.rb - men det är även möjligt att dela upp den efter resurs.)
+Eleven följer MVC. I controllerns finns ingen SQL-kod istället är funktionalliteten utflyttad till modellfiler.
 
 Eleven följer REST fullt ut.
 
